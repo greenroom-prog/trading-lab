@@ -1,0 +1,1 @@
+FINDING 2026-08-18 CONFIRMED at scale. Coinbase BTC/USD 1h, n=17935: return autocorr max |0.0128| lags 1-6 = zero. Vol autocorr 0.2737. Holds across daily and hourly. Price-only directional strategies are dead on BTC. Structure exists in magnitude only.
