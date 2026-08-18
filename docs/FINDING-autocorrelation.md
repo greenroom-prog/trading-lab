@@ -1,1 +1,2 @@
 FINDING 2026-08-18 CONFIRMED at scale. Coinbase BTC/USD 1h, n=17935: return autocorr max |0.0128| lags 1-6 = zero. Vol autocorr 0.2737. Holds across daily and hourly. Price-only directional strategies are dead on BTC. Structure exists in magnitude only.
+CONFIRMED ACROSS ASSETS 2026-08-18: BTC/ETH/SOL 1h, n=17937 each. Return autocorr max |0.026| all three. Vol autocorr 0.223-0.274 all three. Price-only directional edge does not exist in crypto hourly. Vol clustering real but not tradeable via vol-targeting (C-004 killed, -1.27% vs +0.02% hold).

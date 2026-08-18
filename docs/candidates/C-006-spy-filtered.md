@@ -1,0 +1,1 @@
+C-006 SPY filtered down-days KILLED 2026-08-18. Per-trade edge rises with threshold (13.9/16.0/27.2/39.2 bps at -0.5/-1/-2/-3%) confirming signal is real. But total return falls 446/198/91/36% vs buyhold 742%. Being out of a rising asset costs more than the edge earns. LESSON: exposure-reducing strategies must clear the drift, not just the fees.

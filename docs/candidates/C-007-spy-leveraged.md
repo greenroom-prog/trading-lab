@@ -1,0 +1,3 @@
+C-007 SPY leveraged-on-down-days: FIRST SURVIVOR 2026-08-18. lev1.25 924%, lev1.5 1120%, lev2.0 1528% vs buyhold 743%, costs 2bps on turnover. maxDD -55.8/-56.6/-59.3% vs bh ~-55%. Same risk, more return. NOT YET TESTED: borrowing cost of leverage, out-of-sample, crisis dependence.
+OUT-OF-SAMPLE PASSED 2026-08-18: built 2000-2015 (128% vs bh 89%), tested 2016-2026 unseen (402% vs bh 347%). Borrowing cost survived: lev2.0 at 6% annual = 1214% vs 743%. Four gates cleared. REMAINING: parameter sensitivity, other assets.
+ROBUSTNESS PASSED 2026-08-18: 15/15 parameter combos beat buyhold. Threshold -0.5% to -2%, leverage 1.25 to 1.75. Range 841%-1598% vs 743%. PLATEAU not spike. C-007 has passed all five gates: cost, borrowing, crisis, out-of-sample, robustness.
