@@ -8,3 +8,6 @@ Fees: VERIFIED 2026-08-18
 Set per instrument as maker_fee/taker_fee decimals.
 Example: architect_ax_mean_reversion.py, 0.0002/0.0005.
 We control the values.
+Slippage: VERIFIED 2026-08-18
+ProbabilisticFillModel with prob_slippage and random_seed.
+Configurable and reproducible.
