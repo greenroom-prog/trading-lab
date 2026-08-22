@@ -1,0 +1,1 @@
+C-010 cross-sectional momentum KILLED 2026-08-18. Stock version showed winners 9069% / losers 3759% vs SPY 804% - SURVIVORSHIP BIAS, list chosen with hindsight. Clean sector-ETF version: winners 598%, losers 742%, SPY 739%. No edge. Stock-level needs point-in-time index membership, not freely available.

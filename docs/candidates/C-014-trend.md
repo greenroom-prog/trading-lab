@@ -1,0 +1,1 @@
+C-014 multi-asset trend following 2007-2026: alone 254% vs SPY 662%, DD -24% vs -51%, corr 0.48. Blends: 60/40 SPY/trend = 487% DD -30% sharpe 0.81 vs SPY 662% DD -51% sharpe 0.75. TRADEABLE - monthly rebalance at next open, no close-fill assumption. Not alpha, risk management.

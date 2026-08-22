@@ -1,0 +1,1 @@
+C-012 turn-of-month overlay REJECTED 2026-08-18. TOM effect real (6.89 vs 2.97 bps) but stacking on C-011 gives 1915% vs 1833% while DD worsens -44% to -50%. 4pct more return for 6pts more drawdown. Bad trade. Weekday effect: Tue 6.5bps best, Fri 1.4 worst - likely noise, not pursued.
