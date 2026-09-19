@@ -1,0 +1,380 @@
+[
+  {
+    "score": 0.4200980392156863,
+    "gap": 82.05,
+    "pm": {
+      "venue": "polymarket",
+      "id": "0x339d8be5cb57653a9ee63e07d216543622cdefb45eed81b1680e83887a2d7bc6",
+      "slug": "aziz-akhannouch-out-as-morocco-prime-minister-by-december-31-2026",
+      "title": "Aziz Akhannouch out as Morocco Prime Minister by December 31, 2026?",
+      "yes": 90.55,
+      "spread": 4.1000000000000005,
+      "vol": 167528.198311,
+      "liq": 17351.23936,
+      "end": "2026-12-31"
+    },
+    "k": {
+      "venue": "kalshi",
+      "ticker": "KXLLM1-26DEC31-XAI",
+      "title": "Best AI on Dec 31, 2026? Grok:: xAI",
+      "bid": 8.200000000000001,
+      "ask": 8.799999999999999,
+      "yes": 8.5,
+      "spread": 0.5999999999999979,
+      "vol": 17813.92,
+      "end": "2026-12-31",
+      "rules": "If xAI has the top-ranked LLM on Dec 31, 2026, then the market resolves to Yes."
+    }
+  },
+  {
+    "score": 0.43737373737373736,
+    "gap": 71.4,
+    "pm": {
+      "venue": "polymarket",
+      "id": "0xafefe6fc14ffb9bd92f2ad0578696345ed3484a566d393c16e717ccdc67c68ec",
+      "slug": "will-variational-launch-a-token-by-december-31-2026-577-621",
+      "title": "Will Variational launch a token by December 31, 2026?",
+      "yes": 79.9,
+      "spread": 2.0,
+      "vol": 351473.1726299999,
+      "liq": 14533.07064,
+      "end": ""
+    },
+    "k": {
+      "venue": "kalshi",
+      "ticker": "KXLLM1-26DEC31-XAI",
+      "title": "Best AI on Dec 31, 2026? Grok:: xAI",
+      "bid": 8.200000000000001,
+      "ask": 8.799999999999999,
+      "yes": 8.5,
+      "spread": 0.5999999999999979,
+      "vol": 17813.92,
+      "end": "2026-12-31",
+      "rules": "If xAI has the top-ranked LLM on Dec 31, 2026, then the market resolves to Yes."
+    }
+  },
+  {
+    "score": 0.3711077844311377,
+    "gap": -51.95,
+    "pm": {
+      "venue": "polymarket",
+      "id": "0x2e4b58fc18dbffd74d5275d89fb076943f21992763c45dcadd81391b83bde13c",
+      "slug": "will-the-fed-increase-interest-rates-by-50-bps-after-the-september-2026-meeting-664",
+      "title": "Will the Fed increase interest rates by 50+ bps after the September 2026 meeting?",
+      "yes": 0.5499999999999999,
+      "spread": 0.1,
+      "vol": 10094427.573032007,
+      "liq": 885950.29795,
+      "end": "2026-09-16"
+    },
+    "k": {
+      "venue": "kalshi",
+      "ticker": "KXFEDDECISION-26SEP-H0",
+      "title": "Will the Federal Reserve Hike rates by 0bps at their September 2026 meeting? Hike 0bps",
+      "bid": 52.0,
+      "ask": 53.0,
+      "yes": 52.5,
+      "spread": 1.0,
+      "vol": 354346.06,
+      "end": "2026-09-16",
+      "rules": "If the Federal Reserve does a Hike of 0bps on September 16, 2026, then the market resolves to Yes."
+    }
+  },
+  {
+    "score": 0.569578313253012,
+    "gap": 25.5,
+    "pm": {
+      "venue": "polymarket",
+      "id": "0x12aa13b3da17ceae1b0a59b5d5b77121e91bb79b4bb0b52bf6543ed3f8d0953b",
+      "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
+      "title": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
+      "yes": 26.5,
+      "spread": 1.0,
+      "vol": 171703.267124,
+      "liq": 366835.1019,
+      "end": "2026-10-28"
+    },
+    "k": {
+      "venue": "kalshi",
+      "ticker": "KXFEDDECISION-26OCT-H26",
+      "title": "Will the Federal Reserve Hike rates by >25bps at their October 2026 meeting? Hike >25bps",
+      "bid": 0.0,
+      "ask": 2.0,
+      "yes": 1.0,
+      "spread": 2.0,
+      "vol": 2230.02,
+      "end": "2026-10-28",
+      "rules": "If the Federal Reserve does a Hike of >25bps on October 28, 2026, then the market resolves to Yes."
+    }
+  },
+  {
+    "score": 0.43650793650793646,
+    "gap": 23.0,
+    "pm": {
+      "venue": "polymarket",
+      "id": "0xd008c45c5320e7453b4e7725bda285cd822a3a61adef14759f2aadf0778c64b6",
+      "slug": "will-abstract-launch-a-token-by-december-31-2026",
+      "title": "Will Abstract launch a token by December 31, 2026",
+      "yes": 31.5,
+      "spread": 3.0,
+      "vol": 361344.1349509999,
+      "liq": 1941.5652,
+      "end": ""
+    },
+    "k": {
+      "venue": "kalshi",
+      "ticker": "KXLLM1-26DEC31-XAI",
+      "title": "Best AI on Dec 31, 2026? Grok:: xAI",
+      "bid": 8.200000000000001,
+      "ask": 8.799999999999999,
+      "yes": 8.5,
+      "spread": 0.5999999999999979,
+      "vol": 17813.92,
+      "end": "2026-12-31",
+      "rules": "If xAI has the top-ranked LLM on Dec 31, 2026, then the market resolves to Yes."
+    }
+  },
+  {
+    "score": 0.4140952380952381,
+    "gap": -14.649999999999999,
+    "pm": {
+      "venue": "polymarket",
+      "id": "0x8e5b3cca5dd6b5ad77bb203644722ceb5b9d12bfe2dd1ab19d5efd9bf854d04c",
+      "slug": "will-openai-ipo-by-august-31-2026",
+      "title": "Will OpenAI IPO by August 31 2026?",
+      "yes": 0.05,
+      "spread": 0.1,
+      "vol": 204746.13543000002,
+      "liq": 129971.39118,
+      "end": ""
+    },
+    "k": {
+      "venue": "kalshi",
+      "ticker": "KXLLM1-26DEC31-OAI",
+      "title": "Best AI on Dec 31, 2026? ChatGPT:: OpenAI",
+      "bid": 14.499999999999998,
+      "ask": 14.899999999999999,
+      "yes": 14.7,
+      "spread": 0.40000000000000036,
+      "vol": 11765.9,
+      "end": "2026-12-31",
+      "rules": "If OpenAI has the top-ranked LLM on Dec 31, 2026, then the market resolves to Yes."
+    }
+  },
+  {
+    "score": 0.38,
+    "gap": 10.25,
+    "pm": {
+      "venue": "polymarket",
+      "id": "0x98dbb998749ae773baf35697d695f5efdc098def32decd687b91c634d8d0481d",
+      "slug": "openai-1t-ipo-before-2027",
+      "title": "OpenAI $1t+ IPO before 2027?",
+      "yes": 13.0,
+      "spread": 2.0,
+      "vol": 299729.014104,
+      "liq": 2948.0443,
+      "end": "2027-01-01"
+    },
+    "k": {
+      "venue": "kalshi",
+      "ticker": "KXBTCY-27JAN0100-T149999.99",
+      "title": "BTC price  on Jan 1, 2027? ",
+      "bid": 2.7,
+      "ask": 2.8000000000000003,
+      "yes": 2.75,
+      "spread": 0.10000000000000009,
+      "vol": 2889.71,
+      "end": "2027-01-01",
+      "rules": "If the simple average of the sixty seconds of CF Benchmarks' BRTI before 12 AM EST is above 149999.99 at 12 AM EST on Jan 1, 2027, then the market resolves to Yes."
+    }
+  },
+  {
+    "score": 0.4471218206157965,
+    "gap": 7.0,
+    "pm": {
+      "venue": "polymarket",
+      "id": "0x84c625fdccf5c5246a15e476361e4563033906ee225800e1136c0d737596a72f",
+      "slug": "russia-x-ukraine-ceasefire-by-december-31-2026",
+      "title": "Russia x Ukraine ceasefire by December 31, 2026?",
+      "yes": 15.5,
+      "spread": 1.0,
+      "vol": 495448.7507439999,
+      "liq": 217473.4969,
+      "end": "2026-12-31"
+    },
+    "k": {
+      "venue": "kalshi",
+      "ticker": "KXLLM1-26DEC31-XAI",
+      "title": "Best AI on Dec 31, 2026? Grok:: xAI",
+      "bid": 8.200000000000001,
+      "ask": 8.799999999999999,
+      "yes": 8.5,
+      "spread": 0.5999999999999979,
+      "vol": 17813.92,
+      "end": "2026-12-31",
+      "rules": "If xAI has the top-ranked LLM on Dec 31, 2026, then the market resolves to Yes."
+    }
+  },
+  {
+    "score": 0.4365979381443299,
+    "gap": 7.0,
+    "pm": {
+      "venue": "polymarket",
+      "id": "0x189fc3a42652bc98e40592bbdee43cb8160315310ce535a4fa37fd838da64e72",
+      "slug": "poilievre-out-as-leader-of-conservatives-before-2027",
+      "title": "Poilievre out as leader of Conservatives by December 31, 2026?",
+      "yes": 15.5,
+      "spread": 1.0,
+      "vol": 157268.68286499998,
+      "liq": 10397.2642,
+      "end": "2026-12-31"
+    },
+    "k": {
+      "venue": "kalshi",
+      "ticker": "KXLLM1-26DEC31-XAI",
+      "title": "Best AI on Dec 31, 2026? Grok:: xAI",
+      "bid": 8.200000000000001,
+      "ask": 8.799999999999999,
+      "yes": 8.5,
+      "spread": 0.5999999999999979,
+      "vol": 17813.92,
+      "end": "2026-12-31",
+      "rules": "If xAI has the top-ranked LLM on Dec 31, 2026, then the market resolves to Yes."
+    }
+  },
+  {
+    "score": 0.4592592592592592,
+    "gap": 5.0,
+    "pm": {
+      "venue": "polymarket",
+      "id": "0x1a659ad303630472713278ed1f3d6489eaaaa0171098dba04df2793dfc16a302",
+      "slug": "will-base-launch-a-token-by-december-31-2026-154",
+      "title": "Will Base launch a token by December 31, 2026?",
+      "yes": 13.5,
+      "spread": 3.0,
+      "vol": 695440.984021,
+      "liq": 10062.3584,
+      "end": ""
+    },
+    "k": {
+      "venue": "kalshi",
+      "ticker": "KXLLM1-26DEC31-XAI",
+      "title": "Best AI on Dec 31, 2026? Grok:: xAI",
+      "bid": 8.200000000000001,
+      "ask": 8.799999999999999,
+      "yes": 8.5,
+      "spread": 0.5999999999999979,
+      "vol": 17813.92,
+      "end": "2026-12-31",
+      "rules": "If xAI has the top-ranked LLM on Dec 31, 2026, then the market resolves to Yes."
+    }
+  },
+  {
+    "score": 0.42045454545454547,
+    "gap": -4.75,
+    "pm": {
+      "venue": "polymarket",
+      "id": "0x68e47e45601b8e7fff925490f419191126c0f87cdf978717881fd2efa18cfb5b",
+      "slug": "lai-ching-te-out-as-president-of-taiwan-in-2026",
+      "title": "Lai Ching-te out as President of Taiwan by December 31, 2026?",
+      "yes": 3.75,
+      "spread": 0.1,
+      "vol": 105622.39963399999,
+      "liq": 12475.2429,
+      "end": "2026-12-31"
+    },
+    "k": {
+      "venue": "kalshi",
+      "ticker": "KXLLM1-26DEC31-XAI",
+      "title": "Best AI on Dec 31, 2026? Grok:: xAI",
+      "bid": 8.200000000000001,
+      "ask": 8.799999999999999,
+      "yes": 8.5,
+      "spread": 0.5999999999999979,
+      "vol": 17813.92,
+      "end": "2026-12-31",
+      "rules": "If xAI has the top-ranked LLM on Dec 31, 2026, then the market resolves to Yes."
+    }
+  },
+  {
+    "score": 0.4146520146520147,
+    "gap": -4.55,
+    "pm": {
+      "venue": "polymarket",
+      "id": "0x9ed2a24391123c685db5c48ea043ee9bd714a144be4a9a0c48d146d521cf9f93",
+      "slug": "kim-jong-un-out-as-supreme-leader-of-north-korea-before-2027",
+      "title": "Kim Jong Un out as Supreme Leader of North Korea by December 31, 2026?",
+      "yes": 3.95,
+      "spread": 0.1,
+      "vol": 194545.51488800003,
+      "liq": 20808.87738,
+      "end": "2026-12-31"
+    },
+    "k": {
+      "venue": "kalshi",
+      "ticker": "KXLLM1-26DEC31-XAI",
+      "title": "Best AI on Dec 31, 2026? Grok:: xAI",
+      "bid": 8.200000000000001,
+      "ask": 8.799999999999999,
+      "yes": 8.5,
+      "spread": 0.5999999999999979,
+      "vol": 17813.92,
+      "end": "2026-12-31",
+      "rules": "If xAI has the top-ranked LLM on Dec 31, 2026, then the market resolves to Yes."
+    }
+  },
+  {
+    "score": 0.44157706093189963,
+    "gap": 4.5,
+    "pm": {
+      "venue": "polymarket",
+      "id": "0xfa88bedd0403281fac1b3c8b310755040aabed8ba12ded1b2e3205a3d05a4a28",
+      "slug": "will-hyperliquid-perform-an-airdrop-by-december-31-2026",
+      "title": "Will Hyperliquid perform an airdrop by December 31, 2026? ",
+      "yes": 13.0,
+      "spread": 2.0,
+      "vol": 167978.70207800003,
+      "liq": 3576.6903,
+      "end": ""
+    },
+    "k": {
+      "venue": "kalshi",
+      "ticker": "KXLLM1-26DEC31-XAI",
+      "title": "Best AI on Dec 31, 2026? Grok:: xAI",
+      "bid": 8.200000000000001,
+      "ask": 8.799999999999999,
+      "yes": 8.5,
+      "spread": 0.5999999999999979,
+      "vol": 17813.92,
+      "end": "2026-12-31",
+      "rules": "If xAI has the top-ranked LLM on Dec 31, 2026, then the market resolves to Yes."
+    }
+  },
+  {
+    "score": 0.46838235294117647,
+    "gap": -4.0,
+    "pm": {
+      "venue": "polymarket",
+      "id": "0x14501df0ca5ec395792b0614b18133b72e702a9a2615dd0a4b3f0c6e097de081",
+      "slug": "erdoan-out-before-2027",
+      "title": "Erdo\u011fan out by December 31, 2026?",
+      "yes": 4.5,
+      "spread": 1.0,
+      "vol": 628034.025941,
+      "liq": 30342.9172,
+      "end": "2026-12-31"
+    },
+    "k": {
+      "venue": "kalshi",
+      "ticker": "KXLLM1-26DEC31-XAI",
+      "title": "Best AI on Dec 31, 2026? Grok:: xAI",
+      "bid": 8.200000000000001,
+      "ask": 8.799999999999999,
+      "yes": 8.5,
+      "spread": 0.5999999999999979,
+      "vol": 17813.92,
+      "end": "2026-12-31",
+      "rules": "If xAI has the top-ranked LLM on Dec 31, 2026, then the market resolves to Yes."
+    }
+  }
+]

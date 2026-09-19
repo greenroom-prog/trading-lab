@@ -4,3 +4,11 @@ __pycache__/
 data/raw/
 research/
 .venv/
+.env
+.env.*
+.venv/
+__pycache__/
+*.parquet
+*.csv
+*.key
+*.pem

@@ -1,0 +1,29 @@
+[
+  {
+    "score": 0.5663461538461538,
+    "gap": 93.8,
+    "pm": {
+      "venue": "polymarket",
+      "id": "0x8993fe75e5079e37bd765ec45548184645d3fdc6efef9f7302a95ba8113efa8a",
+      "slug": "will-apple-release-iphone-18-in-2026",
+      "title": "Will Apple release iPhone 18 in 2026?",
+      "yes": 98.8,
+      "spread": 1.2,
+      "vol": 175293.76791699996,
+      "liq": 13673.82452,
+      "end": "2027-01-01"
+    },
+    "k": {
+      "venue": "kalshi",
+      "ticker": "KXIPHONERELEASE-IPHONE18-27JAN01",
+      "title": "Will Apple Inc. release iPhone 18 before Jan 1, 2027? ",
+      "bid": 4.0,
+      "ask": 6.0,
+      "yes": 5.0,
+      "spread": 2.0,
+      "vol": 12940.99,
+      "end": "2027-01-01",
+      "rules": "If Apple Inc. releases iPhone 18 to the public before Jan 1, 2027, then the market resolves to Yes."
+    }
+  }
+]

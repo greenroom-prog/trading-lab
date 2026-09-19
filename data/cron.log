@@ -1,0 +1,5 @@
+2026-08-21  SPY +0.50%  $766.45  fed_tightening=False
+target 1.0x  (normal)
+held 13.0673 -> want 13.0673  delta +0.0
+no action, within tolerance
+logged data/c009_log.csv

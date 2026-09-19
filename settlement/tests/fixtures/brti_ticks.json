@@ -1,0 +1,146 @@
+[
+ {
+  "type": "cfbenchmarks_value",
+  "msg": {
+   "index_id": "BRTI",
+   "received_at": 0,
+   "data": "{\"value\": \"78988.7\"}",
+   "avg_60s_data": {
+    "value": "78989.88",
+    "window_size": 4
+   }
+  }
+ },
+ {
+  "type": "cfbenchmarks_value",
+  "msg": {
+   "index_id": "BRTI",
+   "received_at": 1,
+   "data": "{\"value\": \"78999.32\"}",
+   "avg_60s_data": {
+    "value": "78988.45",
+    "window_size": 9
+   }
+  }
+ },
+ {
+  "type": "cfbenchmarks_value",
+  "msg": {
+   "index_id": "BRTI",
+   "received_at": 2,
+   "data": "{\"value\": \"78996.36\"}",
+   "avg_60s_data": {
+    "value": "78991.71",
+    "window_size": 14
+   }
+  }
+ },
+ {
+  "type": "cfbenchmarks_value",
+  "msg": {
+   "index_id": "BRTI",
+   "received_at": 3,
+   "data": "{\"value\": \"79006.12\"}",
+   "avg_60s_data": {
+    "value": "78994.77",
+    "window_size": 19
+   }
+  }
+ },
+ {
+  "type": "cfbenchmarks_value",
+  "msg": {
+   "index_id": "BRTI",
+   "received_at": 4,
+   "data": "{\"value\": \"78988.83\"}",
+   "avg_60s_data": {
+    "value": "78996.36",
+    "window_size": 24
+   }
+  }
+ },
+ {
+  "type": "cfbenchmarks_value",
+  "msg": {
+   "index_id": "BRTI",
+   "received_at": 5,
+   "data": "{\"value\": \"78981.62\"}",
+   "avg_60s_data": {
+    "value": "78994.41",
+    "window_size": 29
+   }
+  }
+ },
+ {
+  "type": "cfbenchmarks_value",
+  "msg": {
+   "index_id": "BRTI",
+   "received_at": 6,
+   "data": "{\"value\": \"78977.7\"}",
+   "avg_60s_data": {
+    "value": "78992.03",
+    "window_size": 34
+   }
+  }
+ },
+ {
+  "type": "cfbenchmarks_value",
+  "msg": {
+   "index_id": "BRTI",
+   "received_at": 7,
+   "data": "{\"value\": \"78984.64\"}",
+   "avg_60s_data": {
+    "value": "78991.05",
+    "window_size": 39
+   }
+  }
+ },
+ {
+  "type": "cfbenchmarks_value",
+  "msg": {
+   "index_id": "BRTI",
+   "received_at": 8,
+   "data": "{\"value\": \"78983.18\"}",
+   "avg_60s_data": {
+    "value": "78990.19",
+    "window_size": 44
+   }
+  }
+ },
+ {
+  "type": "cfbenchmarks_value",
+  "msg": {
+   "index_id": "BRTI",
+   "received_at": 9,
+   "data": "{\"value\": \"78983.55\"}",
+   "avg_60s_data": {
+    "value": "78989.53",
+    "window_size": 49
+   }
+  }
+ },
+ {
+  "type": "cfbenchmarks_value",
+  "msg": {
+   "index_id": "BRTI",
+   "received_at": 10,
+   "data": "{\"value\": \"78981.02\"}",
+   "avg_60s_data": {
+    "value": "78988.86",
+    "window_size": 54
+   }
+  }
+ },
+ {
+  "type": "cfbenchmarks_value",
+  "msg": {
+   "index_id": "BRTI",
+   "received_at": 11,
+   "data": "{\"value\": \"78982.27\"}",
+   "avg_60s_data": {
+    "value": "78988.13",
+    "window_size": 59
+   }
+  }
+ }
+]

@@ -1,0 +1,64 @@
+{
+ "markets": [
+  {
+   "ticker": "KXBTCD-26AUG2919-T77899.99",
+   "strike_type": "greater",
+   "floor_strike": "77899.99",
+   "yes_bid_dollars": "0.9900",
+   "yes_ask_dollars": "1.0000",
+   "yes_bid_size_fp": "500",
+   "yes_ask_size_fp": "0",
+   "volume_24h_fp": "31755"
+  },
+  {
+   "ticker": "KXBTCD-26AUG2919-T77999.99",
+   "strike_type": "greater",
+   "floor_strike": "77999.99",
+   "yes_bid_dollars": "0.9900",
+   "yes_ask_dollars": "1.0000",
+   "yes_bid_size_fp": "800",
+   "yes_ask_size_fp": "0",
+   "volume_24h_fp": "129686"
+  },
+  {
+   "ticker": "KXBTCD-26AUG2919-T78099.99",
+   "strike_type": "greater",
+   "floor_strike": "78099.99",
+   "yes_bid_dollars": "0.9800",
+   "yes_ask_dollars": "0.9900",
+   "yes_bid_size_fp": "300",
+   "yes_ask_size_fp": "250",
+   "volume_24h_fp": "260198"
+  },
+  {
+   "ticker": "KXBTCD-26AUG2919-T78199.99",
+   "strike_type": "greater",
+   "floor_strike": "78199.99",
+   "yes_bid_dollars": "0.3200",
+   "yes_ask_dollars": "0.3300",
+   "yes_bid_size_fp": "120",
+   "yes_ask_size_fp": "400",
+   "volume_24h_fp": "271912"
+  },
+  {
+   "ticker": "KXBTCD-26AUG2919-T78299.99",
+   "strike_type": "greater",
+   "floor_strike": "78299.99",
+   "yes_bid_dollars": "0.0100",
+   "yes_ask_dollars": "0.0200",
+   "yes_bid_size_fp": "900",
+   "yes_ask_size_fp": "600",
+   "volume_24h_fp": "141332"
+  },
+  {
+   "ticker": "KXBTCD-26AUG2919-T78399.99",
+   "strike_type": "greater",
+   "floor_strike": "78399.99",
+   "yes_bid_dollars": "0.0000",
+   "yes_ask_dollars": "0.0100",
+   "yes_bid_size_fp": "0",
+   "yes_ask_size_fp": "5000",
+   "volume_24h_fp": "44039"
+  }
+ ]
+}

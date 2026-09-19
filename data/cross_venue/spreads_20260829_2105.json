@@ -1,0 +1,56 @@
+[
+  {
+    "score": 0.40590909090909094,
+    "gap": 52.0,
+    "pm": {
+      "venue": "polymarket",
+      "id": "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a",
+      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
+      "title": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+      "yes": 52.5,
+      "spread": 1.0,
+      "vol": 15040883.923280006,
+      "liq": 682959.1698,
+      "end": "2026-09-16"
+    },
+    "k": {
+      "venue": "kalshi",
+      "ticker": "KXFEDDECISION-26SEP-C25",
+      "title": "Will the Federal Reserve Cut rates by 25bps at their September 2026 meeting? Cut 25bps",
+      "bid": 0.0,
+      "ask": 1.0,
+      "yes": 0.5,
+      "spread": 1.0,
+      "vol": 8296.02,
+      "end": "2026-09-16",
+      "rules": "If the Federal Reserve does a Cut of 25bps on September 16, 2026, then the market resolves to Yes."
+    }
+  },
+  {
+    "score": 0.5768072289156627,
+    "gap": 46.0,
+    "pm": {
+      "venue": "polymarket",
+      "id": "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d",
+      "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
+      "title": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
+      "yes": 46.5,
+      "spread": 1.0,
+      "vol": 13364620.622619001,
+      "liq": 726175.501,
+      "end": "2026-09-16"
+    },
+    "k": {
+      "venue": "kalshi",
+      "ticker": "KXFEDDECISION-26SEP-C25",
+      "title": "Will the Federal Reserve Cut rates by 25bps at their September 2026 meeting? Cut 25bps",
+      "bid": 0.0,
+      "ask": 1.0,
+      "yes": 0.5,
+      "spread": 1.0,
+      "vol": 8296.02,
+      "end": "2026-09-16",
+      "rules": "If the Federal Reserve does a Cut of 25bps on September 16, 2026, then the market resolves to Yes."
+    }
+  }
+]
